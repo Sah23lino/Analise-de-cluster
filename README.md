@@ -1,6 +1,6 @@
 # Analise-de-cluster
 Projeto de Data Science (Kaggle): Análise de comportamento de clientes para otimização de campanhas de CRM
-# 📊 Análise e Segmentação de Clientes de Cartão de Crédito (Case CRM Itaú)
+# 📊 Análise e Segmentação de Clientes de Cartão de Crédito 
 
 Este projeto é uma análise de dados exploratória e um exercício de *Machine Learning* (Clusterização) realizado a partir de um dataset do Kaggle sobre clientes de cartão de crédito.(https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data).
 
@@ -19,7 +19,7 @@ Criar ofertas personalizadas para uma base de clientes já segmentada.
 **Desafio da Análise:**
 Identificar os perfis de clientes (segmentos) com base no seu comportamento de consumo e digital para personalizar a estratégia de comunicação.
 
----
+
 
 ## 🛠️ 2. Metodologia
 
@@ -55,8 +55,13 @@ A análise revelou 3 perfis de clientes distintos, com comportamentos e valor op
 ### Gráficos de Perfil (Dashboard)
 Os perfis foram analisados visualmente através de 5 gráficos de barras (criados no Kaggle) que comparam as médias de cada *feature* para cada cluster.
 
-*( )*
-`[Imagem dos teus 5 gráficos de barras aqui]`
+*( <img width="917" height="539" alt="image" src="https://github.com/user-attachments/assets/e0ee9dfe-1f65-4c34-afa0-e5c7bbc02251" />)*
+*( <img width="880" height="542" alt="image" src="https://github.com/user-attachments/assets/72a183c0-0dcc-46f7-be85-225df42f8be0" />)*
+*( <img width="877" height="540" alt="image" src="https://github.com/user-attachments/assets/4c368a6c-4a6a-4048-a5bf-10b701c1fc32" />)*
+*( <img width="918" height="551" alt="image" src="https://github.com/user-attachments/assets/edc9b105-dcfd-4f56-8707-60e47bb3c315" />)*
+*( <img width="901" height="560" alt="image" src="https://github.com/user-attachments/assets/9c770238-e2d8-45e8-9c59-ea4d6a97caab" />)*
+
+*(<img width="1303" height="1275" alt="cluster_pairplot" src="https://github.com/user-attachments/assets/179ae9ac-2891-4968-803e-b673553ef409" />)*
 
 ---
 
@@ -97,6 +102,6 @@ Focar em engajar o cliente para o controle financeiro através dos cofrinhos (te
 
 ## 👤 Autor
 
-* **[Sabrina Lino Coiado]**
+* **Sabrina Lino Coiado**
 * **LinkedIn:** [https://www.linkedin.com/in/sabrina-lino-coiado/]
 * **GitHub:** [https://github.com/Sah23lino]
