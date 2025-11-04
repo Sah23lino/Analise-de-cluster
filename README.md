@@ -72,15 +72,15 @@ Com base nos perfis, uma campanha "digital única" seria ineficaz (falando com a
 🟢 **Para o "Digital Premium" (Foco: Retenção VIP)**
 * **Ação:**Criar ofertas de upgrade com poucos cliques e dobro de pontos (por determinado tempo),
 Pop-ups com ideias de investimentos baseados em seu perfil,
-Utilizar IA de investimentos
+Utilizar IA de investimentos personalizados.
 
 🔵 **Para o "Foco-Agência" (Foco: Aumento de Uso Digital)**
-* **Ação:** Aumentar e-mail marketing, SMS, propagandas na TV e até mesmo nas agências, trazendo ofertas de cashback para pagamento de boletos, de programas de pontuação como o do Pão de Açúcar e de milhas.
+* **Ação:** Aumentar e-mail marketing, SMS, propagandas na TV e até mesmo nas agências, que tragam ofertas de cashback para pagamento de boletos, de programas de pontuação e milhas.
 Incluir para essa categoria  o “fale com o gerente pelo chat”  - sempre visando a interação digital
 🟠 **Para o "Focado em Atendimento" (Foco: Redução de Custo e Frustração)**
 * **Ação:** Disparo de e-mail e SMS, principalmente após sua ligação, trazendo o tema de sua conversa.
 Ex.: Você falou conosco sobre  sua fatura, veja onde encontrá-la  em nosso app em até um minuto.
-Focar em engajar o cliente para o controle financeiro através dos cofrinhos (tendo em vista que seu limite é o menor dentre  os dois).
+Focar em engajar o cliente para o controle financeiro através dos cofrinhos (tendo em vista que seu limite é o menor dentre os dois).
 
 ---
 
