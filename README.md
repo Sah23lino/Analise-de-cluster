@@ -1,5 +1,5 @@
 # Analise-de-cluster
-Projeto de Data Science (Kaggle): Análise de comportamento de clientes para otimização de campanhas de CRM
+Projeto de Data Science (Kaggle): Análise de comportamento de clientes para otimização de campanhas 
 # 📊 Análise e Segmentação de Clientes de Cartão de Crédito 
 
 Este projeto é uma análise de dados exploratória e um exercício de *Machine Learning* (Clusterização) realizado a partir de um dataset do Kaggle sobre clientes de cartão de crédito.(https://www.kaggle.com/datasets/aryashah2k/credit-card-customer-data).
